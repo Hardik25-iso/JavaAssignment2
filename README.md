@@ -160,10 +160,3 @@ You are free to use, modify, and distribute this software.
 
 ---
 
-If you want, next I can:
-
-1. Add JavaDoc comments
-2. Convert this into a multi-file project
-3. Prepare viva or lab explanations
-
-Just tell me.
